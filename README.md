@@ -1,3 +1,3 @@
 # TopSoma
 ### Exemplo da chamada
-`Get /v1/Teste´
+`Get /v1/Teste`
